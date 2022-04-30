@@ -19,7 +19,9 @@ Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 ```
 
-### Bu durumda 18 sayısı 'Average case' kapsamına girer.
+Bu durumda 18 sayısı 'Average case' kapsamına girer.
+------------------
+
 
 ## 2. Örnek: [7,3,5,8,2,9,4,15,6]  dizisinin Insertion Sort'a göre ilk 4 adımını yazınız:
 
